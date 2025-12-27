@@ -1,0 +1,54 @@
+[{
+	"side_label": "Cents",
+	"cap_label": "50¢",
+	"coin_diameter": 19.05,
+	"coin_thickness": 1.47, // 1.52 Official
+	"coin_capacity": 50,
+	"side_length": 22.225, // 7/8 in
+	"height": 82.55, // 3 1/4 in
+}, {
+	"side_label": "Nickels",
+	"cap_label": "$2",
+	"coin_diameter": 21.21,
+	"coin_thickness": 1.90, // 19.5 Official
+	"coin_capacity": 40,
+	"side_length": 25.4, // 1 in
+	"height": 82.55, // 3 1/4 in
+},
+{
+	"side_label": "Dimes",
+	"cap_label": "$5",
+	"coin_diameter": 17.91,
+	"coin_thickness": 1.30, // 1.35 Official
+	"coin_capacity": 50,
+	"side_length": 21.43125, // 20.6375 (13/16 in) Standard
+	"height": 68.2625, // 2 11/16 in
+},
+{
+	"side_label": "Quarters",
+	"cap_label": "$10",
+	"coin_diameter": 24.26,
+	"coin_thickness": 1.75,
+	"coin_capacity": 40,
+	"side_length": 28.575, // 1 1/8 in
+	"height": 73.025, // 2 7/8 in
+},
+{
+	"side_label": "Half Dollars",
+	"cap_label": "$10",
+	"coin_diameter": 30.61,
+	"coin_thickness": 2.15,
+	"coin_capacity": 20,
+	"side_length": 35, // Estimated
+	"height": 57.75, // Estimated
+},
+{
+	"side_label": "Dollars",
+	"cap_label": "$20",
+	"coin_diameter": 26.49,
+	"coin_thickness": 2.00,
+	"coin_capacity": 20,
+	"side_length": 30.00, // Measured
+	"height": 54.75, // Measured
+},
+]
