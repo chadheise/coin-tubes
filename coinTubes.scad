@@ -7,7 +7,7 @@ font = "Roboto:style=Regular";
 
 /* [Dimensions] */
 coin_diameter = 21.21; // [10:0.0001:100]
-coin_thickness = 1.95; // [0:0.01:]
+coin_thickness = 1.95; // [0:0.01:5]
 coin_capacity = 40; // [0:1:100]
 side_length = 25.40; // [0:0.0001:100]
 height = 82.55; // [0:0.0001:1000]
@@ -15,7 +15,7 @@ height = 82.55; // [0:0.0001:1000]
 /* [Universal Dimensions] */
 top_tube_height = 11.0;
 cap_height = 12.75;
-cap_tolerance = 0.4;
+cap_tolerance = 0.4; // [0:0.01:1]
 coin_tolerance = 0.7;
 
 /* [Hidden] */
@@ -26,7 +26,7 @@ text_depth = 0.5;
 
 $fn = 64;
 
-color("#52C8E3")
+color("#32a852")
   main();
 
 module main() {
